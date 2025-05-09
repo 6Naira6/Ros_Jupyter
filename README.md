@@ -24,4 +24,4 @@ roslaunch assignment_2_2024 assignment.launch
 4. Open the notebook and run all cells. Use the sliders and buttons to send or cancel goals, and watch the robot’s behavior update live in the plots.
 
 ## Note
-This is just the notebook, in order to run the project, you will need [the original repository]([https://gazebosim.org/](https://github.com/6Naira6/Assignment_2_2024)).
+This is just the notebook, in order to run the project, you will need the original [repository](https://github.com/6Naira6/Assignment_2_2024).
