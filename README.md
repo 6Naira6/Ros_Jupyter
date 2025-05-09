@@ -16,7 +16,7 @@ source devel/setup.bash
 2. Launch the simulation and all ROS nodes:
 
 ```bash
-roslaunch assignment_2_2024 assignment.launch
+roslaunch assignment_2_2024 assignment1.launch
 ```
 
 3. In a separate terminal, run the Jupyter interface:
