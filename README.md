@@ -25,3 +25,9 @@ roslaunch assignment_2_2024 assignment1.launch
 
 ## Note
 This is just the notebook, in order to run the project, you will need the original [repository](https://github.com/6Naira6/Assignment_2_2024).
+
+The full documentation ([github_pages](https://6naira6.github.io/Assignment_2_2024/)) for the code is available in the main [repository](https://github.com/6Naira6/Assignment_2_2024). 
+
+## Proof of Work
+![Proof of Work](POW.png)
+
